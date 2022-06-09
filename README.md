@@ -1,1 +1,1 @@
-Japanese translation suggestions
+# Japanese Translation Suggestions
